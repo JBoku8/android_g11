@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Java_and_Kotlin_g11"
