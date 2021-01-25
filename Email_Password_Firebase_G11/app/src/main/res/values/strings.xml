@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Email_Password_Firebase_G11</string>
+    <string name="emailEditText">ელ.ფოსტა</string>
+    <string name="passwordEditText">პაროლი</string>
+    <string name="signInButton">ავტორიზაცია</string>
+    <string name="signUpButton">რეგისტრაცია</string>
+    <string name="choiceText">ან</string>
+    <string name="goBack">უკან დაბრუნება</string>
+    <string name="loginPageTitle">სისტემაში შესვლა</string>
+    <string name="registerPageTitle">სისტემაში რეგისტრაცია</string>
+    <string name="singOut">სისტემიდან გასვლა</string>
+    <string name="forgotPasswordText">პაროლი დაგავიწყდა?</string>
+    <string name="failedLoginMessage">წარუმატებელი მოქმედება.</string>
+    <string name="updatePassword">პაროლის განახლება</string>
+    <string name="updatePasswordPageTitle">პაროლის შეცვლა</string>
+    <string name="newPasswordEditText">ახალი პაროლი</string>
+    <string name="confirmPassword">პაროლის შეცვლა</string>
+
+    <string name="resetPasswordPageTitle">პაროლის აღდგენა</string>
+    <string name="resetPasswordButton">დადასტურება</string>
+</resources>
