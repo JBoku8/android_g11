@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Status_App_G11</string>
+    <string name="appLogoAlt">Application logo description</string>
+    <string name="splashAppTitle">Name of the Application</string>
+    <string name="splashAppDescription">Created by Student 1 Student 2</string>
 </resources>
